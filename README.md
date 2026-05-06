@@ -1,1 +1,1 @@
-# AI-Powered-physical-health-companion
+# AI-Powered-Physical-Health-Companion
